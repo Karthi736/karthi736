@@ -1,4 +1,4 @@
-# Hi, I'm Karthikeyan 👋
+# Hi, I'm Karthikeyan M 👋
 
 ## About Me
 Final Year Bachelor of Engineering in Electrical and Electronics Engineering.
