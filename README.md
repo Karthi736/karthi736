@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Karthikeyan 👋
 
-<!--
-**Karthi736/karthi736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Final Year Bachelor of Engineering in Electrical and Electronics Engineering.
 
-Here are some ideas to get you started:
+I am interested in:
+- Testing & Commissioning
+- Substation Automation
+- SCADA
+- PLC Basics
+- Arduino
+- PCB Design (KiCad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Internship
+**VVDN Technologies**
+- Laptop Assembly
+- Hardware Testing
+- System Integration
+
+## Academic Projects
+### Smart Temperature and Gas Detection System
+- Arduino UNO
+- DHT11 Sensor
+- MQ Gas Sensor
+- LCD Display
+- LED & Buzzer Alert
+
+### Smart Transformer Health Monitoring System
+- Arduino UNO
+- DHT22 Sensor
+- Relay Protection
+- Servo Cooling
+- Health Score Prediction
+
+## Technical Skills
+- Transformer
+- CT & PT
+- Relay Protection
+- SCADA
+- PLC Basics
+- Arduino
+- KiCad PCB Design
+
+## Contact
+- LinkedIn: (Paste your LinkedIn link here)
+- GitHub: https://github.com/Karthi736
